@@ -67,3 +67,4 @@ php artisan serve
 ```
 
 10. View the application at [http://localhost:8080](http://localhost:8080)
+# laravel_test
